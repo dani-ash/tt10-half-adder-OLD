@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_Ajah_Stott_Holmes_half_adder (
+module tt_um_Ajah_Stott_Holmes_half_adder (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
@@ -43,4 +43,5 @@ module tt_Ajah_Stott_Holmes_half_adder (
     // All output pins must be assigned. If not used, assign to 0.
   
 endmodule
+
 		
