@@ -6,7 +6,7 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+## How it works?
 
 A half adder is used for simple binary addition of two 1-bit numbers. It uses XOR for sum, AND for carry. It’s a building block for more complex adders (like full adders and ripple-carry adders). 
 
